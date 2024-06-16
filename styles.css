@@ -1,1 +1,32 @@
+body{
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #000000;
+  color: white;
+}
+
+.header .logo {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 1.5em;
+}
+
+.header nav {
+    display: flex;
+}
+
+.header nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+.header nav a:hover {
+    text-decoration: underline;
+}
