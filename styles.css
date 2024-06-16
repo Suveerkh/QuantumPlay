@@ -1,6 +1,8 @@
 body{
   margin: 0;
   font-family: Arial, sans-serif;
+  cursor: none;
+  cursor: url('https://userstyles.org/style_screenshots/146004_after.png?r=1717660810');
 }
 
 .header {
