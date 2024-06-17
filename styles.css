@@ -6,13 +6,13 @@ body{
 }
 
 .header {
-  display: flex;
-  justify-content: space-between;
+  display: 'flex';
+  justify-content: 'space-between';
   align-items: center;
   leftpadding: 5px;
   rightpadding: 20px;
   background-color: 'black';
-  color: white;
+  color: 'white';
 }
 
 .header .logo {
