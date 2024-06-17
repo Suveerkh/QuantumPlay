@@ -9,8 +9,9 @@ body{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 5px;
-  background-color: #000000;
+  leftpadding: 5px;
+  rightpadding: 20px;
+  background-color: 'black';
   color: white;
 }
 
