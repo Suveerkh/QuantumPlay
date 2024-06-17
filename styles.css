@@ -1,10 +1,6 @@
-* {
-  padding: 2rem;
-  border: 2px solid #333;
-  background-color: #fff;
-  text-align: center;
-  cursor: url('starter-fire-cursor.png'), auto;
-}
+.custom-cursor {
+            cursor: url('path/to/your-cursor-image.png'), auto;
+        }
 
 body {
   margin: 0;
