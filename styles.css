@@ -51,8 +51,8 @@ body{
     }
 
 .section-home {
-  background: ;
-  text:yellow;
+  background: #000000;
+  text:white;
 }
 
 .header nav a:hover {
