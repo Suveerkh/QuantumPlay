@@ -1,4 +1,12 @@
-body{
+* {
+  padding: 2rem;
+  border: 2px solid #333;
+  background-color: #fff;
+  text-align: center;
+  cursor: url('custom-cursor.png'), auto;
+}
+
+body {
   margin: 0;
   font-family: Arial, sans-serif;
   bgcolor: #000000;
