@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   background-color: #000000;
-  text: white;
+  color: white;
 }
 
 .header {
@@ -39,6 +39,6 @@ body {
 
 .home {
   background-image: url(nfs.jpeg);
-  text: white;
+  color: white;
   padding: 16px;
 }
