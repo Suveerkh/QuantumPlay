@@ -38,11 +38,18 @@ body {
 }
 
 .home {
-  background-image: url(Section_home.png);
+  background-image: url('Section_home.png');
+  background-size: cover; /* Ensures the image covers the entire section */
+  background-position: center; /* Centers the background image */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
   height: 600px;
   width: 100%;
   color: white;
   padding: 16px;
+  display: flex; /* Optional: Helps with centering content inside */
+  justify-content: center; /* Optional: Centers content horizontally */
+  align-items: center; /* Optional: Centers content vertically */
+  text-align: center; /* Optional: Centers text inside the section */
 }
 
 .custom-cursor-area {
