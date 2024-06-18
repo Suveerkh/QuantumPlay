@@ -42,7 +42,7 @@ body {
   background-size: cover; /* Ensures the image covers the entire section */
   background-position: center; /* Centers the background image */
   background-repeat: no-repeat; /* Prevents the image from repeating */
-  height: 600px;
+  height: 1080px;
   width: 1920px;
   color: white;
   padding: 16px;
