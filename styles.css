@@ -38,9 +38,10 @@ body {
 }
 
 .home {
+  id:"home";
   background-image: url(Section_home.png);
   color: white;
   padding: 16px;
-  height: 600;
+  height: 600px;
   width: 100%
 }
