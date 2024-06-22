@@ -43,7 +43,7 @@ body {
   background-position: center; /* Centers the background image */
   background-repeat: no-repeat; /* Prevents the image from repeating */
   height: 1080px;
-  width: 1920px;
+  width: 100%;
   color: white;
   padding: 16px;
   display: flex; /* Optional: Helps with centering content inside */
