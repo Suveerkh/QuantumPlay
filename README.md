@@ -8,7 +8,7 @@
 
 ## Demo
 
-🌑 [Live Demo](https://nekusu.github.io/shopping-cart/)
+🌑 [Live Demo](https://)
 
 ## Built with
 
